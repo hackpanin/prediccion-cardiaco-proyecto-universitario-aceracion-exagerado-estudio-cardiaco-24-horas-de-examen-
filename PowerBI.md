@@ -96,3 +96,4 @@ QQ 群1(2000人)：564786745
 QQ 群2(1000人):553499910(已满)
 
 WebChat:PowerDataWorld
+https://pt.wikipedia.org/wiki/?title=Pulm%C3%A3o&oldid=64564473 all publick
