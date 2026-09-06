@@ -1,4 +1,4 @@
-# Awesome资源大全
+predicción atack cardiaco# Awesome资源大全
 
 我们将在这里介绍所有开发，IT相关的工具和资源大全
 
