@@ -1,0 +1,79 @@
+Archivo Digital UPM
+Menú
+Predicción de ataques cardiacos mediante técnicas de Machine Learning
+Moreno Sánchez, Juan Sebastián (2021). Predicción de ataques cardiacos mediante técnicas de Machine Learning. Trabajo Fin de Grado / Proyecto Fin de Carrera, E.T.S.I. de Sistemas Informáticos (UPM), Madrid.
+Descripción
+Título: Predicción de ataques cardiacos mediante técnicas de Machine Learning
+Autor/es: Moreno Sánchez, Juan Sebastián
+Director/es: Ortega Requena, Fernando https://orcid.org/0000-0003-4765-1479
+Tipo de Documento: Trabajo Fin de Grado o Proyecto Fin de Carrera
+Grado: Grado en Ingeniería del Software
+Fecha: Julio 2021
+Materias: InformáticaMedicina
+ODS:
+03. Salud y bienestar
+Palabras Clave Informales: Machine learning; Aprendizaje automático; Cardiología; Predicción; Logistic regression
+Escuela: E.T.S.I. de Sistemas Informáticos (UPM)
+Departamento: Sistemas Informáticos
+Licencias Creative Commons: Reconocimiento - Sin obra derivada - No comercial
+Texto completo
+[thumbnail of TFG_JUAN_SEBASTIAN_MORENO_SANCHEZ.pdf]	PDF (Portable Document Format) - Se necesita un visor de ficheros PDF, como GSview, Xpdf o Adobe Acrobat Reader
+Descargar (3MB) | Vista Previa
+Resumen
+Un ataque al corazón es la necrosis isquémica del corazón, generalmente causada por la obstrucción de las arterias que lo irrigan. La detección temprana de esta enfermedad cardiovascular aumenta las posibilidades de cura y puede salvar miles de vidas. Muchos factores de riesgo que pueden desencadenar un infarto tienen que ver con nuestro estilo de vida actual. El problema es que en muchos casos no lo podemos detectar a tiempo porque carecemos de las herramientas necesarias para predecir cuándo ocurrirá un infarto. En este Proyecto Fin de Grado (PFG), desarrollamos modelos de Machine Learning con algoritmos de aprendizaje automático no supervisados para predecir ataques cardíacos con la finalidad de saber qué algoritmos nos generan el modelo que mejor funciona con estos datos clínicos de pacientes. Estos algoritmos de Machine Learning identifican patrones en los datos, aprenden de las observaciones y hacen predicciones. También, se lleva a cabo un estudio de las herramientas necesarias para la construcción y optimización del modelo. Además, hemos definido una batería de experimentos con distintos algoritmos de aprendizaje supervisado, que aplicados sobre el mismo dataset, pretenden identificar cuáles son los algoritmos que obtienen una mayor puntuación en la métrica Valor-F (F1-score). Finalmente, realizamos un estudio comparativo en base a los resultados obtenidos tras ejecutar la batería de experimentos. En esta investigación, llegamos a la conclusión de que los algoritmos que mejor funcionan y más nos interesan para entrenar nuestro modelo son el Logistic Regression y el Random Forest Classifier, ya que alcanzan un valor-F (F1-score) del 85% y solo han tenido 3 falsos negativos.
+Abstract:
+A heart attack is the ischemic necrosis of the heart, usually caused by the obstruction of the arteries that supply it with blood. The early detection of this cardiovascular disease increases the chances of a cure and can save thousands of lives. There are many risk factors that can trigger a heart attack that have to do with our lifestyle today. The problem is that in many cases we cannot detect it in time because we have a lack of the necessary tools to predict when a heart attack will occur. In this Final Degree Project (FDP), we develop Machine Learning models with unsupervised Machine Learning algorithms to predict heart attacks to see which algorithm (s) works best with these clinical patient data. These Machine Learning algorithms identify patterns in data, they learn from observations, and they can make predictions. Moreover, a study of the necessary tools for the construction and optimization of the model is carried out. Furthermore, we have defined a battery of experiments with different supervised learning algorithms, which, applied to the same data-set, aim to identify which algorithms have the highest F1-score. Finally, we carry out a comparative study based on the results obtained after executing the battery of experiments. In this investigation, we conclude that the algorithms that work best and interest us the most to train our model are the Logistic Regression and the Random Forest Classifier, since they reach a F1-score of 85% and they have had only 3 false negatives.
+
+Más información
+ID de Registro:68821
+Identificador DC:https://oa.upm.es/68821/
+Identificador OAI:oai:oa.upm.es:68821
+Depositado por:Biblioteca Universitaria Campus Sur
+Depositado el:13 Oct 2021 16:08
+Ultima Modificación:13 Dic 2021 23:30
+Estadísticas
+Exportar cita
+Editar (sólo personal del Archivo)
+El repositorio
+Publicar
+Sobre AD
+Contactar
+Agrupados por ...
+Fecha
+Materia
+Tipo
+Escuela
+Departamento
+Grado
+Máster
+Autor
+Editor
+Director
+ODS
+Búsqueda
+Datos Investigación
+Plan Gestión Datos
+PGDonline
+EcienciaDatos
+Financiadores
+Unión Europea
+Gobierno de España
+Comunidad de Madrid
+Funders' policies
+Especiales
+Cream Of Science
+TFG/TFM Cooperación
+Últimos depositados
+En otros formatos
+Atom
+RSS 2.0
+RSS 1.0
+OAI 2.0
+Archivo Digital UPM en Bluesky
+Universidad Politécnica de Madrid
+Biblioteca Universitaria de la UPM
+
+El Archivo Digital UPM es el repositorio digital institucional mantenido por la Biblioteca de la Universidad Politécnica de Madrid. Desarrollado y gestionado con EPrints.
+
+Sindicación: Atom, RSS 2.0 y RSS 1.0 (HTML)
+Recolección: OAI 2.0   cardiac all transmisión directa 
